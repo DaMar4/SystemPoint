@@ -1,0 +1,10 @@
+C:\Users\Daniel Marin\source\repos\SystemPoint\bin\Debug\SystemPoint.exe.config
+C:\Users\Daniel Marin\source\repos\SystemPoint\bin\Debug\SystemPoint.exe
+C:\Users\Daniel Marin\source\repos\SystemPoint\bin\Debug\SystemPoint.pdb
+C:\Users\Daniel Marin\source\repos\SystemPoint\obj\Debug\SystemPoint.csprojAssemblyReference.cache
+C:\Users\Daniel Marin\source\repos\SystemPoint\obj\Debug\SystemPoint.Form1.resources
+C:\Users\Daniel Marin\source\repos\SystemPoint\obj\Debug\SystemPoint.Properties.Resources.resources
+C:\Users\Daniel Marin\source\repos\SystemPoint\obj\Debug\SystemPoint.csproj.GenerateResource.cache
+C:\Users\Daniel Marin\source\repos\SystemPoint\obj\Debug\SystemPoint.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Marin\source\repos\SystemPoint\obj\Debug\SystemPoint.exe
+C:\Users\Daniel Marin\source\repos\SystemPoint\obj\Debug\SystemPoint.pdb
